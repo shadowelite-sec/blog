@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>PICO CTF | PYTHON WRANGLING</title>
+      <link>https://shadowelite.me/blog/posts/pico_g2/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shadowelite.me/blog/posts/pico_g2/</guid>
+      <description>This is an easy beginner-level CTF (Capture The Flag) to understand how to run Python scripts, and also we can learn about some ciphers by reading the Python script.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://shadowelite.me/blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
