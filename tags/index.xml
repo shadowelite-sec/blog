@@ -10,6 +10,34 @@
       <link>https://shadowelite.me/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shadowelite.me/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shadowelite.me/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>general skills</title>
+      <link>https://shadowelite.me/blog/tags/general-skills/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shadowelite.me/blog/tags/general-skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pico</title>
+      <link>https://shadowelite.me/blog/tags/pico/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shadowelite.me/blog/tags/pico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>picoctf</title>
+      <link>https://shadowelite.me/blog/tags/picoctf/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shadowelite.me/blog/tags/picoctf/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
