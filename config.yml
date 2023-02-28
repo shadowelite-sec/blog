@@ -1,6 +1,6 @@
 baseURL: https://shadowelite.me/blog/
 languageCode: en-us
-title: My New Hugo Site
+title: ALAN S | BLOG
 
 paginate: 5
 theme: PaperMod
@@ -54,7 +54,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "ALAN S"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -76,15 +76,16 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: My name is ALAN ,
+      I am Cyber security enthusiast and researcher with a passion for coding and experimenting with new tools and techniques. Currently completing my degree in Computer Applications.
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/"
-    - name: stackoverflow
+    - name: instagram
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/shadowelite-sec"
 
   analytics:
     google:
@@ -116,17 +117,17 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: About
+      name: About
+      url: /about/
       weight: 10
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: se
+      name: S.E
+      url: https://shadowelite.me
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

@@ -1,7 +1,7 @@
 ---
 title: "PICO CTF | OBEDIENT CAT"
 date: 2023-02-28
-tags: ["pico","picoctf","general skills"]
+tags: ["pico","picoctf","general skills","ctf"]
 author: "ALAN S"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -23,7 +23,7 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
 
-its is a very very is challange <!--more-->  
+its is a very very easy challange <!--more-->  
 
 ## STEP 1
 
@@ -31,7 +31,7 @@ Download The flag file to a directory
 
 For now we have not idea what this file is, 
 but we can easily identify the file type using the linux command `file`
-![file]("../../assets/pico/g1/file.png")
+![file](https://raw.githubusercontent.com/shadowelite-sec/blog/main/assets/pico/g1/file.png)
 
 now we know the file is an ASCII text 
 
@@ -42,7 +42,7 @@ The 'cat' command in Linux is a versatile tool that can be used to concatenate a
 
 previousliy we found the the file is an ASCII text so we can use cat command to display what inside that file
 
-![cat](../../assets/pico/g1/cat.png)
+![cat](https://raw.githubusercontent.com/shadowelite-sec/blog/main/assets/pico/g1/cat.png)
 
 this is the flag
 {{< css.inline >}}
