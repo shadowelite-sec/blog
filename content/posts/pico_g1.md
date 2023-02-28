@@ -29,7 +29,7 @@ its is a very very easy challange <!--more-->
 
 Download The flag file to a directory
 
-For now we have not idea what this file is, 
+For now we have no idea what this file is, 
 but we can easily identify the file type using the linux command `file`
 ![file](https://raw.githubusercontent.com/shadowelite-sec/blog/main/assets/pico/g1/file.png)
 
