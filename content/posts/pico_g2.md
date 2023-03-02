@@ -8,7 +8,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "This is an easy beginner-level CTF (Capture The Flag) to understand how to run Python scripts, and also we can learn about some ciphers by reading the Python script."
 disableHLJS: true # to disable highlightjs
 disableShare: false
