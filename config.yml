@@ -117,18 +117,31 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: Blog
+      name: Blog
+      url: /posts/
+      weight: 10
     - identifier: About
       name: About
       url: /about/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
       weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 50
     - identifier: se
       name: S.E
       url: https://shadowelite.me
-      weight: 30
+      weight: 60
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -139,4 +152,11 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+# search
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 

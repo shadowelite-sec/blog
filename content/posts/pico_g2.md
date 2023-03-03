@@ -1,7 +1,7 @@
 ---
 title: "PICO CTF | PYTHON WRANGLING"
 date: 2023-02-28
-tags: ["pico","picoctf","general skill","ctf","python"]
+tags: ["pico","picoctf","general skills","ctf","python"]
 author: "ALAN S"
 # author: ["Me", "You"] # multiple authors
 showToc: true
