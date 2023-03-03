@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ALAN S | BLOG</title>
-    <link>https://shadowelite.me/blog/tags/</link>
+    <link>https://blog.shadowelite.me/tags/</link>
     <description>Recent content in Tags on ALAN S | BLOG</description>
     <image>
       <title>ALAN S | BLOG</title>
-      <url>https://shadowelite.me/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://shadowelite.me/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.shadowelite.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.shadowelite.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shadowelite.me/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shadowelite.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ctf</title>
-      <link>https://shadowelite.me/blog/tags/ctf/</link>
+      <link>https://blog.shadowelite.me/tags/ctf/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://shadowelite.me/blog/tags/ctf/</guid>
+      <guid>https://blog.shadowelite.me/tags/ctf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>general skill</title>
-      <link>https://shadowelite.me/blog/tags/general-skill/</link>
+      <link>https://blog.shadowelite.me/tags/general-skill/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://shadowelite.me/blog/tags/general-skill/</guid>
+      <guid>https://blog.shadowelite.me/tags/general-skill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>general skills</title>
-      <link>https://shadowelite.me/blog/tags/general-skills/</link>
+      <link>https://blog.shadowelite.me/tags/general-skills/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://shadowelite.me/blog/tags/general-skills/</guid>
+      <guid>https://blog.shadowelite.me/tags/general-skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pico</title>
-      <link>https://shadowelite.me/blog/tags/pico/</link>
+      <link>https://blog.shadowelite.me/tags/pico/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://shadowelite.me/blog/tags/pico/</guid>
+      <guid>https://blog.shadowelite.me/tags/pico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>picoctf</title>
-      <link>https://shadowelite.me/blog/tags/picoctf/</link>
+      <link>https://blog.shadowelite.me/tags/picoctf/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://shadowelite.me/blog/tags/picoctf/</guid>
+      <guid>https://blog.shadowelite.me/tags/picoctf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://shadowelite.me/blog/tags/python/</link>
+      <link>https://blog.shadowelite.me/tags/python/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://shadowelite.me/blog/tags/python/</guid>
+      <guid>https://blog.shadowelite.me/tags/python/</guid>
       <description></description>
     </item>
     

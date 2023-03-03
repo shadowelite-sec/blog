@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>general skills on ALAN S | BLOG</title>
-    <link>https://shadowelite.me/blog/tags/general-skills/</link>
+    <link>https://blog.shadowelite.me/tags/general-skills/</link>
     <description>Recent content in general skills on ALAN S | BLOG</description>
     <image>
       <title>ALAN S | BLOG</title>
-      <url>https://shadowelite.me/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://shadowelite.me/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.shadowelite.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.shadowelite.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shadowelite.me/blog/tags/general-skills/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shadowelite.me/tags/general-skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PICO CTF | OBEDIENT CAT</title>
-      <link>https://shadowelite.me/blog/posts/pico_g1/</link>
+      <link>https://blog.shadowelite.me/posts/pico_g1/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://shadowelite.me/blog/posts/pico_g1/</guid>
+      <guid>https://blog.shadowelite.me/posts/pico_g1/</guid>
       <description>Desc Text.</description>
     </item>
     
