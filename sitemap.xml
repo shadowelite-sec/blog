@@ -8,9 +8,6 @@
     <loc>https://blog.shadowelite.me/tags/ctf/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.shadowelite.me/tags/general-skill/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.shadowelite.me/tags/general-skills/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,8 +33,11 @@
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.shadowelite.me/about/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://blog.shadowelite.me/archives/</loc>
   </url><url>
     <loc>https://blog.shadowelite.me/categories/</loc>
+  </url><url>
+    <loc>https://blog.shadowelite.me/archive/</loc>
   </url>
 </urlset>
