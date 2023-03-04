@@ -68,10 +68,12 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
+      - name: blog
+        url: blog
       - name: Tags
         url: tags
+      - name: Ctf
+        url: ctf
 
   # home-info mode
   homeInfoParams:
@@ -100,11 +102,6 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/shadowelite-sec/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
@@ -117,30 +114,30 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: Blog
-      name: Blog
-      url: /posts/
-      weight: 10
+    - identifier: CTF
+      name: CTF🚩
+      url: /ctf/
+      weight: 20
     - identifier: About
       name: About
       url: /about/
-      weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
       weight: 30
+    - identifier: search
+      name: Search 
+      url: /search/
+      weight: 40
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 40
-    - identifier: About
-      name: About
-      url: /about/
       weight: 50
+    - identifier: About
+      name: About📝
+      url: /about/
+      weight: 60
     - identifier: se
       name: S.E
       url: https://shadowelite.me
-      weight: 60
+      weight: 70
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
