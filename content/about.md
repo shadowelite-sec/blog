@@ -13,6 +13,7 @@ ShowPostNavLinks: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
+searchHidden: false
 comments: false
 ---
 
